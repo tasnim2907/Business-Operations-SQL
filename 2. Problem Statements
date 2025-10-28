@@ -1,0 +1,26 @@
+1. Find the second highest salary from the Employee table.
+2. Find duplicate records in a table.
+3. Retrieve employees who earn more than their manager.
+4. Count employees in each department having more than 5 employees.
+5. Find employees who joined in the last 6 months.
+6. Get departments with no employees.
+7. Write a query to find the median salary.
+8. Running total of salaries by department.
+9. Find the longest consecutive streak of daily logins for each user.
+10. Recursive query to find the full reporting chain for each employee.
+11. Write a query to find gaps in a sequence of numbers
+12. Calculate cumulative distribution (CDF ) of salaries.
+13. Compare two tables and find rows with differences in any column (all columns ).
+14. Write a query to rank employees based on salary
+15. Find customers who have not made any purchase.
+16. Write a query to perform a conditional aggregation
+17. Write a query to calculate the difference between current row and previous row's salary (lag function).
+18. Identify overlapping date ranges for bookings.
+19. Write a query to find employees with salary greater than average salary in the entire company , ordered by
+salary descending.
+20. Aggregate JSON data (if supported ) to list all employee names in a department as a JSON array.
+21. Write a query to find the difference in days between two dates in the same table.
+22. Calculate the moving average of salaries over the last 3 employees ordered by hire date.
+23. Find the most recent purchase per customer using window functions.
+24. Detect hierarchical depth of each employee in the org chart.
+25. Write a query to perform a self-join to find pairs of employees in the same department.
